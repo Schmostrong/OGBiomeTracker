@@ -1,0 +1,12 @@
+name: OGBiomeTracker
+main: og.spigot.survival.biometracker.main.OGBiomeTrackerMain
+version: 1.0
+api-version: 1.13
+author: Schmostrong
+commands:
+  ogbiomesetdistance:
+    usage: /ogbiomesetdistance <Distance>
+    description: Command is used to set the distance
+  ogbiomeinfo:
+    usage: /ogbiomeinfo
+    description: Prints the current settings
